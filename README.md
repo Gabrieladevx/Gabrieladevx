@@ -14,17 +14,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente em formaçã
 
 ## 💡 Tecnologias e Ferramentas
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+</p>
 
 ---
 
@@ -37,10 +37,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente em formaçã
 
 ---
 
-## 🐍 Snake Game
+## 🐍 Snake Game: Sua Jornada de Contribuições
 
 <p align="center">
-  <img src="https://github.com/Gabrieladevx/Gabrieladevx/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Gabrieladevx/Gabrieladevx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation mostrando minhas contribuições"/>
+</p>
+
+<p align="center">
+  <em>Essa animação representa o caminho das minhas contribuições no GitHub, atualizada automaticamente!<br>
+  Personalize a sua também: <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a>.<br>
+  Dica: Você pode mudar as cores, velocidade e estilo do grid no arquivo de configuração do workflow no seu repositório.</em>
 </p>
 
 ---
@@ -56,9 +62,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente em formaçã
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/gabrieladevx)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?logo=vercel)](https://gabrieladevx.vercel.app)  
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:gabrieladevx@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/gabrieladevx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/></a>
+  <a href="https://gabrieladevx.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000?logo=vercel"/></a>
+  <a href="mailto:gabrieladevx@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"/></a>
+</p>
 
 ---
 
