@@ -1,17 +1,17 @@
 # 👋 Olá, eu sou a Gabriela!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Em formação Full Stack com foco em desenvolvimento Web  
+💻 Em formação Full Stack com foco em desenvolvimento web  
 🚀 Buscando minha primeira oportunidade como Dev
 
 ---
 
-## 🧠 Tecnologias que estudo
+## 💡 Tecnologias que estudo
 
 - HTML, CSS, JavaScript
 - React.js, Node.js
 - Git & GitHub
-- Banco de dados: MongoDB, PostgreSQL
+- MongoDB & PostgreSQL
 
 ---
 
