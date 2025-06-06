@@ -1,75 +1,24 @@
-# 👋 Olá, eu sou a Gabriela!
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+Full+Stack+em+formação;Focada+em+soluções+inovadoras"/>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriela-alves-b334aa362/) 
 
-## ✨ Sobre mim
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gabrieladevx&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gabrieladevx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieladevx&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente em formação Full Stack com foco em desenvolvimento web. Busco minha primeira oportunidade profissional como desenvolvedora e estou sempre em busca de novos desafios para aprimorar minhas habilidades técnicas e comportamentais.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gabrieladevx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-## 💡 Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Gabrieladevx&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrieladevx&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieladevx&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🐍 Snake Game: Sua Jornada de Contribuições
-
-<p align="center">
-  <img src="https://github.com/Gabrieladevx/Gabrieladevx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation mostrando minhas contribuições"/>
-</p>
-
-<p align="center">
-  <em>Essa animação representa o caminho das minhas contribuições no GitHub, atualizada automaticamente!<br>
-  Personalize a sua também: <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a>.<br>
-  Dica: Você pode mudar as cores, velocidade e estilo do grid no arquivo de configuração do workflow no seu repositório.</em>
-</p>
-
----
-
-## 💼 Como posso contribuir
-
-- Desenvolvimento de aplicações web responsivas
-- Criação e integração de APIs RESTful
-- Modelagem e manipulação de bancos de dados
-- Versionamento de código e colaboração em projetos
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://linkedin.com/in/gabrieladevx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/></a>
-  <a href="https://gabrieladevx.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000?logo=vercel"/></a>
-  <a href="mailto:gabrieladevx@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
