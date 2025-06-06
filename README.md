@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Gabriela!
 
-<!--
-**Gabrieladevx/Gabrieladevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Em formação Full Stack com foco em desenvolvimento Web  
+🚀 Buscando minha primeira oportunidade como Dev
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que estudo
+
+- HTML, CSS, JavaScript
+- React.js, Node.js
+- Git & GitHub
+- Banco de dados: MongoDB, PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrieladevx&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔍 Linguagens mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieladevx&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🐍 Snake Game
+
+![snake gif](https://github.com/Gabrieladevx/Gabrieladevx/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seuusuario)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?logo=vercel)](https://seuportifolio.com)  
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:seuemail@gmail.com)
