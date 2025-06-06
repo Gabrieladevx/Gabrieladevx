@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+Profissional em formação na área de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web Full Stack. Apaixonada por inovação e tecnologia, busco aprimorar constantemente minhas habilidades técnicas e contribuir para soluções criativas e eficientes. Tenho experiência com as principais tecnologias do ecossistema web e atuo com responsabilidade, colaboração e dedicação em todos os projetos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriela-alves-b334aa362/) 
